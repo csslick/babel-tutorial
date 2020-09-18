@@ -18,6 +18,7 @@ npm install --save-dev @babel/core @babel/cli
   },
 ```
 babel 뒤에 옵션: ```src```는 소스 경로, ```-d 빌드될 소스경로``` ```-w``` watch(실시간 코드 수정)
+```index.html```에서는 ```js/main.js```로 파일명(빌드 과정에서 생성됨)을 연결하고 직접 작성할 소스는 ```src```에 같은 이름으로 만든다.
 <br/><br/>
 
 
@@ -32,3 +33,9 @@ babel 뒤에 옵션: ```src```는 소스 경로, ```-d 빌드될 소스경로```
 }
 ```
 <br/><br/>
+
+
+6. package.json 수정
+``` npm run build ``` 를 실행하면 ```src```의 자바스크립트 파일이 컴파일 되어 ```js```에 저장이 된다.
+
+
