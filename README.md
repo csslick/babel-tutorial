@@ -19,7 +19,7 @@ npm install --save-dev @babel/core @babel/cli
 ```
 babel 뒤에 옵션: ```src```는 소스 경로, ```-d 빌드될 소스경로``` ```-w``` watch(실시간 코드 수정)
 ```index.html```에서는 ```js/main.js```로 파일명(빌드 과정에서 생성됨)을 연결하고 직접 작성할 소스는 ```src```에 같은 이름으로 만든다.
-<br/>
+<br/><br/>
 
 
 5. ```.babelrc``` 설정 파일을 root에 추가하고 관련 모듈을 설치
