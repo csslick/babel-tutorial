@@ -4,7 +4,9 @@
 2. 프로젝트 폴더 생성 후 ```npm init -y```
 
 3. Babel JavaScript compiler 홈페이지 https://babeljs.io/ 을 통해 babel 설치
-```npm install --save-dev @babel/core @babel/cli```
+```
+npm install --save-dev @babel/core @babel/cli
+```
 
 4. package.json 수정
 ```
