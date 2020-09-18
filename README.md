@@ -1,9 +1,9 @@
 # babel-tutorial
-1. node.js 설치  
+1.node.js 설치  
 
-2. 프로젝트 폴더 생성 후 ```npm init -y```
+2.프로젝트 폴더 생성 후 ```npm init -y```
 
-3. package.json 수정
+3.package.json 수정
 
 ```
   "scripts": {
