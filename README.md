@@ -1,2 +1,2 @@
 # babel-tutorial
-[babel]https://babeljs.io/
+1. Babel 홈페이지 https://babeljs.io/
