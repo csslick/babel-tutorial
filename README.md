@@ -9,6 +9,15 @@
 ```
 npm install --save-dev @babel/core @babel/cli
 ```
+package.json에 해당 Dependency들이 설치 되었는지 확인
+```
+{
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0"
+  }
+}
+```
 <br/>
 
 4. package.json 수정
