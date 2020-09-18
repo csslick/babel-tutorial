@@ -1,5 +1,6 @@
 # babel-tutorial
-## 1. node.js 설치   <br/><br/>
+## 1. node.js 설치   
+<br/><br/>
 
 ## 2. 프로젝트 폴더 생성 후 ```npm init -y```  
 
