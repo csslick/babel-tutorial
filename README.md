@@ -1,4 +1,4 @@
-# babel-tutorial
+# babel-tutorial(babel로 모던 자바스크립트 프로젝트 준비하기)
 1. node.js 설치   
 <br/>
 
