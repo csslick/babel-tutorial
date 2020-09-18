@@ -1,2 +1,2 @@
 # babel-tutorial
-[https://babeljs.io/]
+[babel]https://babeljs.io/
