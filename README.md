@@ -16,7 +16,7 @@ npm install --save-dev @babel/core @babel/cli
 ```
 babel 뒤에 옵션: ```src```는 소스 경로, ```-d 빌드될 소스경로``` ```-w``` watch(실시간 코드 수정)
 
-5.```.babelrc``` 설정 파일을 root에 추가하고 관련 모듈을 설치
+5. ```.babelrc``` 설정 파일을 root에 추가하고 관련 모듈을 설치
 ```npm install @babel/preset-env --save-dev``` 
 
 - ```babelrc```파일에 다음의 설정을 추가
